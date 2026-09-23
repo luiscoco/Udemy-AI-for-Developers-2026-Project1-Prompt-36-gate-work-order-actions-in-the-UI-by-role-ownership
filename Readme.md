@@ -1,4 +1,4 @@
-# Prompt F: Showing work-order actions by role in the UI
+# Showing work-order actions by role in the UI
 
 This step makes the frontend follow the same permission rules the backend already enforces. A user now sees only the work-order actions they are allowed to perform.
 
